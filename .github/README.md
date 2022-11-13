@@ -41,7 +41,7 @@
 </p>
 
 <p align="center">
-<a href="https://telegram.me/CRAZYxROMEO"><img src="https://img.shields.io/badge/%20Legend-blue.svg?style=for-the-badge&logo=Telegram"></a>
+<a href="https://telegram.me/CRAZYxROMEO"><img src="https://t.me/+8spjlBYe_alkNDRl?style=for-the-badge&logo=Telegram"></a>
 </p>
 
 <h3 align="center">
